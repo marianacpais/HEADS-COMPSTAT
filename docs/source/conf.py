@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Class Template'
+project = 'HEADS COMPSTAT - Computational Statistics'
 copyright = '2024, Mariana Canelas-Pais'
 author = 'Mariana Canelas-Pais'
-release = 'v0.0'
+release = 'v0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

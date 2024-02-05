@@ -10,6 +10,9 @@ Welcome to Class Template's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   lesson00
+   lesson01
+
 
 Please see `README.md` file for more information on how to use this repository.
 
